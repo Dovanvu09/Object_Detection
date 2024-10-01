@@ -119,7 +119,7 @@ The `yolov1_scratch_aug.ipynb` notebook extends the YOLOv1 implementation with v
 
 **Sample output**:
 
-![Sample Output](images/sample_output.jpg)
+![Sample Output](sample.png)
 
 ## Contributing
 
