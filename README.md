@@ -145,11 +145,10 @@ Contributions are welcome! You can contribute in the following ways:
     ```
 
 5. Open a pull request.
+## Contact
 
-## License
+For any questions or issues, please contact me:
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+- Email: [your_email@example.com](vudo22555@gmail.com)
+- GitHub Issues: [Create a new issue](https://github.com/Dovanvu09/Object_Detection/issues)
 
----
-
-*Happy Coding!* ✨
