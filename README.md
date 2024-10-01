@@ -149,6 +149,5 @@ Contributions are welcome! You can contribute in the following ways:
 
 For any questions or issues, please contact me:
 
-- Email: [your_email@example.com](vudo22555@gmail.com)
-- GitHub Issues: [Create a new issue](https://github.com/Dovanvu09/Object_Detection/issues)
+- Email: [vudo22555@gmail.com]
 
